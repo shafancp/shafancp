@@ -1,20 +1,39 @@
-# Hello, World! 👋
+# Mohamed Shafan | Data Analyst 📊
 
-I'm a passionate student deeply immersed in the worlds of design and artificial intelligence/machine learning. My coding journey has equipped me with a versatile skill set, seamlessly navigating through languages such as HTML, CSS, JavaScript, PHP, Python, C, and SQL. 🚀
+MSc Big Data Management graduate passionate about transforming data into actionable insights. I specialize in predictive analytics, machine learning, and building data-driven solutions that solve real-world problems.
 
-## Skills & Expertise
-- **Web Development**: Crafting captivating user interfaces, ensuring seamless user experiences, and proficient in Django for robust backend development.
-- **Languages**: HTML, CSS, JavaScript, PHP, Python, C, SQL.
-- **Framework**: Django.
+## 💼 What I'm Looking For
+Junior Data Analyst roles in Ireland where I can apply my analytical skills to drive business decisions through data.
 
-## Current Endeavor
-🧠 Currently on an exciting journey into the realm of machine learning. Delving into ML algorithms, I'm eager to unlock the potential of AI to solve real-world problems.
+## 🛠️ Technical Skills
 
-## Let's Connect!
-Join me on this coding odyssey as I explore the intersection of design, development, and artificial intelligence. Check out my projects, and let's collaborate, learn, and innovate together! 🌟
+**Data Analysis & Visualization:**
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (PostgreSQL, MySQL)
+- Tableau
 
-Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+**Machine Learning:**
+- Scikit-learn
+- Predictive modeling & forecasting
+- Time series analysis
+- Classification & regression algorithms
 
-## Contact Me
-- 📧 Email: [shafancpx@gmail.com](mailto:shafancpx@gmail.com)
-- 🔗 LinkedIn: [Mohamed Shafan](www.linkedin.com/in/mohamed-shafan/)
+**Other Tools:**
+- Git & GitHub
+- Jupyter Notebooks
+- Data cleaning & preprocessing
+
+## 📚 Education
+- **MSc Big Data Management** | Griffith College Dublin, Ireland | 2025-2026
+- **Bachelor of Computer Application** | India | 2021-2024
+
+## 📫 Let's Connect!
+I'm actively seeking junior data analyst opportunities and open to collaborating on data projects.
+
+- 📧 Email: shafancpx@gmail.com
+- 💼 LinkedIn: [Mohamed Shafan](https://www.linkedin.com/in/mohamed-shafan/)
+- 📍 Location: Ireland
+
+---
+
+⭐️ Open to opportunities | 🤝 Available for collaboration | 📈 Constantly learning
